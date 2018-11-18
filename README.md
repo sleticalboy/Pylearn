@@ -32,7 +32,10 @@ Pylearn: python learning
     - 元组一经定义，内容不可变，但是可以重新赋值
 - if 语句
 - Python 中的字典[dict]
+    - 类似 Java 中的 Map 集合，用于存储 k-v 映射的一种数据结构
+    - 类似 json 语法
 - 用户输入[input()]
+    - 接收用户输入，用于在 terminal 中和用户进行交互
 - Python 中的函数[function]
     - def 关键字定义函数
     - 简单函数示例
