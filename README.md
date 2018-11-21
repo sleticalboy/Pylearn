@@ -41,6 +41,8 @@ Pylearn: python learning
     - 简单函数示例
     - 传递任意数量的实参(类似Java中的可变参数)
     - 函数返回值
+    - 函数等效调用
+        - 实参指定时可以不需要确定顺序
     - 使用函数处理列表/字典
 - Python 中的 OOP 编程[class]
     - class 关键字定义类
