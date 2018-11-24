@@ -1,13 +1,14 @@
 # install pip3 on Ubuntu Linux
 
+- 在控制台执行如下命令:
 ```shell
 sudo apt install python3-pip
 ```
 
-## output:
+- 控制台输出如下：
 ```log
-sleticalboy@Lee:~/code/python/Pylearn$ sudo apt install python3-pip 
-[sudo] password for sleticalboy: 
+~/code/python/Pylearn$ sudo apt install python3-pip 
+[sudo] password for your_name: 
 Reading package lists... Done
 Building dependency tree       
 Reading state information... Done
@@ -70,4 +71,13 @@ Progress: [ 80%] [##############################################################
 Setting up python3-wheel (0.29.0-1) ...############################################################################################################################################################.............................] 
 
 Progress: [ 90%] [###########################################################################################################################################################################################...................] 
+```
+
+- 测试是否安装成功
+```shell
+~/code/python/Pylearn$ pip3 --version
+pip 18.1 from ~/.local/lib/python3.5/site-packages/pip (python 3.5)
+或者
+~/code/python/Pylearn$ which pip3
+~/.local/bin/pip3
 ```

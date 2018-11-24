@@ -1,10 +1,11 @@
 # install pip3 on Ubuntu Linux
 
+- 在控制台执行如下命令：
 ```shell
 pip3 install --user matplotlib
 ```
 
-## output:
+- 控制台输出如下：
 ```log
 sleticalboy@Lee:~/code/python/Pylearn$ pip3 install --user matplotlib
 Collecting matplotlib
@@ -33,4 +34,15 @@ Installing collected packages: pyparsing, six, cycler, numpy, setuptools, kiwiso
 Successfully installed cycler kiwisolver matplotlib numpy pyparsing-2.0.3 python-dateutil setuptools-20.7.0 six-1.10.0
 You are using pip version 8.1.1, however version 18.1 is available.
 You should consider upgrading via the 'pip install --upgrade pip' command.
+```
+
+- 如果上面的命令不管用，去掉 `--user` 标志位试下
+- 测试是否安装成功：
+```shell
+~/code/python/Pylearn$ python3
+Python 3.5.2 (default, Nov 23 2017, 16:37:01) 
+[GCC 5.4.0 20160609] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import matplotlib
+>>> # 没有报错提示则说明安装成功
 ```
