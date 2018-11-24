@@ -4,7 +4,7 @@
 sudo apt install python3-pip
 ```
 
-output:
+## output:
 ```log
 sleticalboy@Lee:~/code/python/Pylearn$ sudo apt install python3-pip 
 [sudo] password for sleticalboy: 

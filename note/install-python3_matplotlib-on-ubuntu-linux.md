@@ -4,7 +4,7 @@
 pip3 install --user matplotlib
 ```
 
-output:
+## output:
 ```log
 sleticalboy@Lee:~/code/python/Pylearn$ pip3 install --user matplotlib
 Collecting matplotlib

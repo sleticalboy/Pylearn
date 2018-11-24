@@ -1,74 +1,16 @@
 # Pylearn
     Pylearn: python learning
 
-### basic
+## 基础知识
+- [知识结构](./note/python-knowledge-structure.md)
+- [网络编程]()
+- [与操作系统交互]()
 
-- Python 之禅[zen of Python]
-    - import this
-- hello python
-- Python 中的变量
-- Python 中的字符串
-    - str()
-    - lstrip()
-    - rstrip()
-    - strip()
-    - split()
-    - in 判断
-- Python 中的数字
-    - +, -, *, /, **(乘方)
-    - int() 函数
-- Python 中的列表[list]
-    - append()
-    - insert()
-    - pop()
-    - del 删除元素
-    - remove() 
-    - 列表切片
-    - 列表拷贝
-    - 遍历列表
-        - for 循环
-        - while 循环
-- Python 中的元组[tuple]
-    - 元组一经定义，内容不可变，但是可以重新赋值
-- if 语句
-- Python 中的字典[dict]
-    - 类似 Java 中的 Map 集合，用于存储 k-v 映射的一种数据结构
-    - 类似 json 语法
-- 用户输入[input()]
-    - 接收用户输入，用于在 terminal 中和用户进行交互
-- Python 中的函数[function]
-    - def 关键字定义函数
-    - 简单函数示例
-    - 传递任意数量的实参(类似Java中的可变参数)
-    - 函数返回值
-    - 函数等效调用
-        - 实参指定时可以不需要确定顺序
-    - 使用函数处理列表/字典
-- Python 中的 OOP 编程[class]
-    - class 关键字定义类
-        - 类属性
-        - 构造方法
-        - 类方法
-    - 类的实例化
-    - 类的继承
-        - 重写父类方法
-        - 编写子类独有的方法
-- Python 中的文件操作
-    - 打开文件
-    - 读取文件内容
-        - 读取全部内容
-        - 逐行读取
-    - 写入文件
-    - 异常处理
-        - try except 语句
-        - try except else 语句
-- Python 中的单元测试
-    - unittest[单元测试]
-    - assert[断言]
-        - assertEqual()
-        - assertNotEqual()
-        - assertIn()
-        - assertNotIn()
-    - TestCase[测试用例]
-        - setUp()
-        - test_***
+## 安装必要的包
+- [在 Ubuntu Linux 下安装 pip3](./note/install-pip3-on-ubuntu-linux.md)
+- [在 Ubuntu Linux 下安装 python3-matplotlib 库](./note/install-python3_matplotlib-on-ubuntu-linux.md)
+
+## 项目基础
+- [数据分析]()
+- [网页爬虫]()
+- [人工智能]()
