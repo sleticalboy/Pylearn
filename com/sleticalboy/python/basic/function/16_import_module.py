@@ -4,7 +4,7 @@
 # 导入函数模块
 # from com.sleticalboy.python.function import
 # 导入函数模块并起别名 alias
-from com.sleticalboy.python.function import pizza as p
+from com.sleticalboy.python.basic.function import pizza as p
 
 # 导入模块中所有函数
 # from com.sleticalboy.python.function import *

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding=utf-8 -*-
 
-from com.sleticalboy.python.oop.car import Car
+from com.sleticalboy.python.basic.oop.car import Car
 
 # 实例化对象
 audi = Car('audi', 'a4', 2016)

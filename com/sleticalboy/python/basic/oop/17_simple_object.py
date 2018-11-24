@@ -2,7 +2,7 @@
 # -*- coding=utf-8 -*-
 
 # 导入 dog
-from com.sleticalboy.python.oop.dog import Dog
+from com.sleticalboy.python.basic.oop.dog import Dog
 
 dog = Dog('reek', 16)
 dog.to_string()

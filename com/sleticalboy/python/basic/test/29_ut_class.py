@@ -2,7 +2,7 @@
 # -*- coding=utf-8 -*-
 import unittest as ut
 
-from com.sleticalboy.python.test.survey import AnonymousSurvey
+from com.sleticalboy.python.basic.test.survey import AnonymousSurvey
 
 
 def run_language_survey():

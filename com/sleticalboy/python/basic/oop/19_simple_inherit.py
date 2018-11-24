@@ -5,7 +5,7 @@
 # from com.sleticalboy.python.oop.car import ElectricCar, Car, Battery
 # 从一个模块中导入所有类
 # from com.sleticalboy.python.oop.car import *
-from com.sleticalboy.python.oop.car import ElectricCar
+from com.sleticalboy.python.basic.oop.car import ElectricCar
 
 # 实例化对象
 tesla = ElectricCar('tesla', 'model s', 2018)
