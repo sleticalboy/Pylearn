@@ -7,7 +7,7 @@ pip3 install --user matplotlib
 
 - 控制台输出如下：
 ```log
-sleticalboy@Lee:~/code/python/Pylearn$ pip3 install --user matplotlib
+~/code/python/Pylearn$ pip3 install --user matplotlib
 Collecting matplotlib
   Downloading https://files.pythonhosted.org/packages/ad/4c/0415f15f96864c3a2242b1c74041a806c100c1b21741206c5d87684437c6/matplotlib-3.0.2-cp35-cp35m-manylinux1_x86_64.whl (12.9MB)
     100% |████████████████████████████████| 12.9MB 111kB/s 
@@ -37,6 +37,7 @@ You should consider upgrading via the 'pip install --upgrade pip' command.
 ```
 
 - 如果上面的命令不管用，去掉 `--user` 标志位试下
+    - 这时可能需要用 `sudo` 去执行
 - 测试是否安装成功：
 ```shell
 ~/code/python/Pylearn$ python3

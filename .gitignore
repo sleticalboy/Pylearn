@@ -109,3 +109,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+/data_analysis/com/sleticalboy/python/squares_plot.png
