@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding=utf-8 -*-
 import matplotlib.pyplot as plt
-from com.sleticalboy.python.random_walk import RandomWalk
+from com.sleticalboy.python.produce.random_walk import RandomWalk
 
 # 不断地模拟随机漫步
 while True:

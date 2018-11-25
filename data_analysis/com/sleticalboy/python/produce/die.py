@@ -4,6 +4,7 @@ from random import randint
 
 
 class Die:
+    """模拟掷骰子"""
 
     def __init__(self, sides=6):
         self.sides = sides

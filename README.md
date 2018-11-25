@@ -11,6 +11,7 @@
 - [在 Ubuntu Linux 下安装 python3-matplotlib 库](
     ./note/install-python3_matplotlib-on-ubuntu-linux.md)
 - [在 Ubuntu Linux 下安装 pygal](./note/install-pygal-on-ubuntu-linux.md)
+- [在 Ubuntu Linux 下安装 cairosvg](./note/install-cairosvg-on-ubuntu-linux.md)
 
 ## 项目基础
 - [网页爬虫](./README.md)
