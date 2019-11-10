@@ -10,7 +10,6 @@ __pycache__/
 
 # idea
 .idea/
-*.iml
 
 # Distribution / packaging
 .Python
@@ -109,5 +108,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-/data_analysis/com/sleticalboy/python/produce/*.png
-/data_analysis/com/sleticalboy/python/produce/*.svg
+/com/sleticalboy/data_analysis/produce/*.png
+/com/sleticalboy/data_analysis/produce/*.svg

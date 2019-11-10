@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding=utf-8 -*-
 import pygal
-from com.sleticalboy.python.produce.die import Die
+from com.sleticalboy.data_analysis.produce.die import Die
 
 # 两个面书不同的骰子
 die_1 = Die()
